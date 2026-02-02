@@ -36,12 +36,12 @@ const ValentineCard = () => {
 
         {/* Main heading */}
         <h1 className="heading-romantic text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-tight mb-6">
-          Hey RAMS/TETS (MY ADRENALINE), Will You Be My Valentine?
+          Hey RAMS aka TETS (MY ADRENALINE), Will You Be My Valentine?
         </h1>
 
         {/* Romantic subtitle */}
         <p className="subtitle-romantic text-lg md:text-xl lg:text-2xl max-w-xl mx-auto mb-10 leading-relaxed">
-          Every moment with you feels like magic EXCEPT FOR YOU KNOW WHAT YOU DID... I'M DEVASTATED BY THAT. BUT IT'S ALL GOOD, THIS COULD'VE BEEN YOU. 💖
+        EXCEPT FOR YOU KNOW WHAT YOU DID... I'M DEVASTATED BY THAT. BUT IT'S ALL GOOD, THIS COULD'VE BEEN YOU. 💖
         </p>
 
         {/* Buttons container */}
