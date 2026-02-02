@@ -16,7 +16,7 @@ const Index = () => {
       {/* Handwritten footer */}
       <footer className="relative z-10 pb-8 text-center">
         <p className="footer-handwritten text-xl md:text-2xl mb-2">
-          DECHEMAN hapa just for you ❤️
+          MADE BY ERICK FOR SHALLY ❤️
         </p>
         <p className="text-muted-foreground text-sm">
           Made with all my love 💕
